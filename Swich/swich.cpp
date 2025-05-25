@@ -22,7 +22,7 @@ int main (){//escribimos la interfaz ya vista (ultima vez que recordaremos esccr
     case 1:
         cout<< "Porfavor dijite la cantidad a agregar: "<<endl;
         cin >> montodeposito;
-        dinero + montodeposito;
+        dinero += montodeposito;
         cout<< "El deposito se realizo correctamente."<<endl;
         break;
     //Planteamos que sucedera si quiere retirar dinero        
