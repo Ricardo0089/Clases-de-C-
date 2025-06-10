@@ -7,6 +7,8 @@ Si elige 2, el programa muestra un número favorito (por ejemplo: 42).
 Si elige 3, el programa muestra "Adiós." y termina.
 Si elige otra cosa, muestra "Opción inválida" y vuelve a mostrar el menú.
 
+El do hile es muy curioso porque eecutamos un solo codigo en do y ella sola cumplira la funcion de regresarnos en el caso de que
+sea un menu de opcion.
 */
 int main (){
     //planteamos las variables
